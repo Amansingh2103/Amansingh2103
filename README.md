@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1718841600&v=beta&t=5TjTlp_PMNydd6_pCPYfQpF-Jrkc5WY7OVBs-cCDNpw))](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1718841600&v=beta&t=5TjTlp_PMNydd6_pCPYfQpF-Jrkc5WY7OVBs-cCDNpw))]([https://rishavchanda.io](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1718841600&v=beta&t=5TjTlp_PMNydd6_pCPYfQpF-Jrkc5WY7OVBs-cCDNpw))
 
 <h1 align="center">Hi 👋, I'm Aman kumar singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
